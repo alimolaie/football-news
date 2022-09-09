@@ -1,0 +1,19 @@
+﻿body {
+}
+.buttom {
+    position: relative;
+    right: 20px;
+   
+}
+.button-delete {
+    position: relative;
+    top: 10px;
+}
+.right-txt{
+    position: absolute;
+    right: 50px;
+}
+.left-txt{
+     position:fixed;
+     left: 30px;
+}

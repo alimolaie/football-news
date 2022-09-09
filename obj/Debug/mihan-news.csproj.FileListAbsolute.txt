@@ -1,0 +1,60 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\mihan-news.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\mihan-news.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\mihan-news.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.AspNet.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.Core.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OAuth.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OpenId.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\System.Web.Providers.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\System.Net.Http.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.Core.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OAuth.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OpenId.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\DotNetOpenAuth.AspNet.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\bin\System.Net.Http.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\obj\Debug\mihan-news.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\mihan-news\obj\Debug\mihan-news.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\mihan-news\obj\Debug\mihan-news.csprojResolveAssemblyReference.cache
+E:\mihan-news-asp-webforms\mihan-news\bin\mihan-news.dll.config
+E:\mihan-news-asp-webforms\mihan-news\bin\mihan-news.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\mihan-news.pdb
+E:\mihan-news-asp-webforms\mihan-news\bin\AspNet.ScriptManager.jQuery.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.AspNet.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.Core.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OAuth.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OpenId.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\EntityFramework.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\Microsoft.Web.Infrastructure.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\System.Web.Providers.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\System.Net.Http.dll
+E:\mihan-news-asp-webforms\mihan-news\bin\EntityFramework.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.Core.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OAuth.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OpenId.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\DotNetOpenAuth.AspNet.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\mihan-news-asp-webforms\mihan-news\bin\System.Net.Http.xml
+E:\mihan-news-asp-webforms\mihan-news\obj\Debug\mihan-news.csprojResolveAssemblyReference.cache
+E:\mihan-news-asp-webforms\mihan-news\obj\Debug\mihan-news.dll
+E:\mihan-news-asp-webforms\mihan-news\obj\Debug\mihan-news.pdb
